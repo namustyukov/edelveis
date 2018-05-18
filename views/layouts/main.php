@@ -627,7 +627,7 @@ AppAsset::register($this);
               </div>
             </div>
           </div>
-          <div class="slick-carousel content-slider">
+          <div class="slick-carousel content-slider-with-controls-autoplay dark-controls space-bottom">
             <div>
               <div class="container">
                 <div class="row justify-content-md-center">
