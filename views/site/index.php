@@ -177,7 +177,7 @@ $this->title = 'My Yii Application';
     <div class="row justify-content-lg-center">
       <div class="col-lg-9 text-center pv-20">
         <br>
-        <h1 class="title large"><span class="text-default">Wellcome</span> To The Project</h1>
+        <h1 class="title large">Добро пожаловать в <span class="text-default">Эдельвейс</span></h1>
         <div class="separator"></div>
         <p class="large">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi perferendis magnam ea necessitatibus, officiis voluptas odit! Aperiam omnis, cupiditate laudantium velit nostrum, exercitationem accusamus, possimus soluta illo deserunt tempora qui.</p>
       </div>
@@ -198,7 +198,7 @@ $this->title = 'My Yii Application';
 
         <!-- page-title start -->
         <!-- ================ -->
-        <h1 class="page-title">Who We Are</h1>
+        <h1 class="page-title">Кто мы</h1>
         <div class="separator-2 mb-20"></div>
         <!-- page-title end -->
 
@@ -240,7 +240,7 @@ $this->title = 'My Yii Application';
   <div class="container">
     <div class="row justify-content-lg-center">
       <div class="col-lg-8">
-        <h2 class="text-center mt-4">We <i class="fa fa-heart text-default"></i> What We Do</h2>
+        <h2 class="text-center mt-4">Мы <i class="fa fa-heart text-default"></i> что мы делаем</h2>
         <div class="separator"></div>
         <p class="large text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam voluptas facere vero ex tempora saepe perspiciatis ducimus sequi animi.</p>
       </div>
@@ -249,28 +249,28 @@ $this->title = 'My Yii Application';
       <div class="col-lg-4">
         <div class="pv-30 feature-box margin-clear text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="100">
           <span class="icon default-bg circle"><i class="fa fa-diamond"></i></span>
-          <h3>We Love Details</h3>
+          <h3>Мы любим обучать</h3>
           <div class="separator clearfix"></div>
           <p>Voluptatem ad provident non repudiandae beatae cupiditate amet reiciendis lorem ipsum dolor sit amet, consectetur.</p>
-          <a href="page-services.html">Read More <i class="pl-1 fa fa-angle-double-right"></i></a>
+          <a href="page-services.html">Подробнее <i class="pl-1 fa fa-angle-double-right"></i></a>
         </div>
       </div>
       <div class="col-lg-4">
         <div class="pv-30 feature-box margin-clear text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="150">
           <span class="icon default-bg circle"><i class="fa fa-connectdevelop"></i></span>
-          <h3>We Are Porro ullam volu</h3>
+          <h3>Мы умеем что-то</h3>
           <div class="separator clearfix"></div>
           <p>Iure sequi unde hic. Sapiente quaerat sequi inventore veritatis cumque lorem ipsum dolor sit amet, consectetur.</p>
-          <a href="page-services.html">Read More <i class="pl-1 fa fa-angle-double-right"></i></a>
+          <a href="page-services.html">Подробнее <i class="pl-1 fa fa-angle-double-right"></i></a>
         </div>
       </div>
       <div class="col-lg-4">
         <div class="pv-30 feature-box margin-clear text-center object-non-visible" data-animation-effect="fadeInDownSmall" data-effect-delay="200">
           <span class="icon default-bg circle"><i class="fa fa fa-snowflake-o"></i></span>
-          <h3>We Use Latest Technologies</h3>
+          <h3>Мы используем что-то</h3>
           <div class="separator clearfix"></div>
           <p>Inventore dolores aut laboriosam cum consequuntur delectus sequi lorem ipsum dolor sit amet, consectetur.</p>
-          <a href="page-services.html">Read More <i class="pl-1 fa fa-angle-double-right"></i></a>
+          <a href="page-services.html">Подробнее <i class="pl-1 fa fa-angle-double-right"></i></a>
         </div>
       </div>
     </div>
@@ -283,32 +283,25 @@ $this->title = 'My Yii Application';
 <section class="pv-40 stats padding-bottom-clear dark-translucent-bg hovered background-img-6">
   <div class="container-fluid">
     <div class="row">
-      <div class="col-lg-3 col-6 text-center">
+      <div class="col-lg-4 col-6 text-center">
         <div class="feature-box">
           <span class="icon without-bg"><i class="fa fa-diamond"></i></span>
-          <h3><strong>Projects</strong></h3>
+          <h3><strong>Проектов</strong></h3>
           <span class="counter" data-to="1525" data-speed="5000">0</span>
         </div>
       </div>
-      <div class="col-lg-3 col-6 text-center">
+      <div class="col-lg-4 col-6 text-center">
         <div class="feature-box">
           <span class="icon without-bg"><i class="fa fa-users"></i></span>
-          <h3><strong>Clients</strong></h3>
+          <h3><strong>Учеников</strong></h3>
           <span class="counter" data-to="1225" data-speed="5000">0</span>
         </div>
       </div>
-      <div class="col-lg-3 col-6 text-center">
+      <div class="col-lg-4 col-6 text-center">
         <div class="feature-box">
-          <span class="icon without-bg"><i class="fa fa-cloud-download"></i></span>
-          <h3><strong>Downloads</strong></h3>
+          <span class="icon without-bg"><i class="fa fa-trophy"></i></span>
+          <h3><strong>Наград</strong></h3>
           <span class="counter" data-to="6532" data-speed="5000">0</span>
-        </div>
-      </div>
-      <div class="col-lg-3 col-6 text-center">
-        <div class="feature-box">
-          <span class="icon without-bg"><i class="fa fa-share"></i></span>
-          <h3><strong>Sherot</strong></h3>
-          <span class="counter" data-to="15002" data-speed="5000">0</span>
         </div>
       </div>
     </div>
@@ -322,7 +315,7 @@ $this->title = 'My Yii Application';
   <div class="container">
     <div class="row justify-content-lg-center">
       <div class="col-lg-8">
-        <h2 class="text-center">More <strong>Services</strong></h2>
+        <h2 class="text-center">Наши <strong>услуги</strong></h2>
         <div class="separator"></div>
         <p class="large text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam voluptas facere vero ex tempora saepe perspiciatis ducimus sequi animi.</p>
       </div>
@@ -393,7 +386,7 @@ $this->title = 'My Yii Application';
   <div class="container">
     <div class="row justify-content-md-center">
       <div class="col-lg-8">
-        <h2 class="text-center mt-4">Our <strong>Portfolio</strong></h2>
+        <h2 class="text-center mt-4">Наши <strong>проекты</strong></h2>
         <div class="separator"></div>
         <p class="large text-center">Atque ducimus velit, earum quidem, iusto dolorem. Ex ipsam totam quas blanditiis, pariatur maxime ipsa iste, doloremque neque doloribus, error. Corrupti, tenetur.</p>
         <br>
@@ -508,7 +501,7 @@ $this->title = 'My Yii Application';
                 <div class="testimonial-image">
                   <img src="template/images/testimonial-1.jpg" alt="Jane Doe" title="Jane Doe" class="rounded-circle">
                 </div>
-                <h3 class="mt-3">Just Perfect!</h3>
+                <h3 class="mt-3">Великолепно!</h3>
                 <div class="separator"></div>
                 <div class="testimonial-body">
                   <blockquote>
@@ -530,7 +523,7 @@ $this->title = 'My Yii Application';
                 <div class="testimonial-image">
                   <img src="template/images/testimonial-2.jpg" alt="Jane Doe" title="Jane Doe" class="rounded-circle">
                 </div>
-                <h3 class="mt-3">Amazing!</h3>
+                <h3 class="mt-3">Спасибо!</h3>
                 <div class="separator"></div>
                 <div class="testimonial-body">
                   <blockquote>

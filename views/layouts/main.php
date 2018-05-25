@@ -91,7 +91,7 @@ $actionID = Yii::$app->controller->action->id;
 
                       <!-- name-and-slogan -->
                       <div class="site-slogan">
-                        Multipurpose HTML5 Template
+                        АНО ДТМ "Эдельвейс"
                       </div>
 
                     </div>
@@ -173,7 +173,7 @@ $actionID = Yii::$app->controller->action->id;
                   <div class="row">
                     <div class="col-md-6 col-lg-3 col-xl-6">
                       <div class="footer-content">
-                        <h2 class="title">Find Me</h2>
+                        <h2 class="title">Наши контакты</h2>
                         <ul class="list-icons">
                           <li><i class="fa fa-map-marker pr-10 text-default"></i> One infinity loop, 54100</li>
                           <li><i class="fa fa-phone pr-10 text-default"></i> +00 1234567890</li>
@@ -184,7 +184,7 @@ $actionID = Yii::$app->controller->action->id;
                     </div>
                     <div class="col-md-6 col-lg-9 col-xl-6">
                       <div class="footer-content">
-                        <h2 class="title">Follow Me</h2>
+                        <h2 class="title">Мы в соц. сетях</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro fugiat accusantium similique modi alias consectetur nesciunt.</p>
                         <ul class="social-links large circle animated-effect-1">
                           <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
