@@ -46,7 +46,7 @@ $this->title = 'My Yii Application';
             data-transform_in="y:[100%];sX:1;sY:1;o:0;s:900;e:Power4.easeInOut;"
             data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;"
             data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Premium Bootstrap Template
+            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Большой отчетный концерт
           </div>
 
           <!-- LAYER NR. 2 -->
@@ -80,7 +80,7 @@ $this->title = 'My Yii Application';
             data-transform_in="y:[100%];sX:1;sY:1;o:0;s:900;e:Power4.easeInOut;"
             data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;"
             data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"><a href="#" class="btn radius-50 btn-dark btn-animated">Read More <i class="fa fa-arrow-right"></i></a> <span class="pl-1 pr-1">or</span> <a href="page-contact.html" class="btn radius-50 btn-default btn-animated margin-clear">Contact Us <i class="fa fa-envelope"></i></a>
+            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"><a href="#" class="btn radius-50 btn-dark btn-animated">Read More <i class="fa fa-arrow-right"></i></a>
           </div>
 
           </li>
@@ -115,7 +115,7 @@ $this->title = 'My Yii Application';
             data-transform_in="y:[100%];sX:1;sY:1;o:0;s:900;e:Power4.easeInOut;"
             data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;"
             data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Next Generation Template
+            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;">Наши планы на 2018
           </div>
 
           <!-- LAYER NR. 2 -->
@@ -151,7 +151,7 @@ $this->title = 'My Yii Application';
             data-transform_in="y:[100%];sX:1;sY:1;s:900;e:Power4.easeInOut;"
             data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;"
             data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;"
-            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"><a href="#" class="btn radius-50 btn-dark btn-animated">Read More <i class="fa fa-arrow-right"></i></a> <span class="pl-1 pr-1">or</span> <a href="page-contact.html" class="btn radius-50 btn-default btn-animated margin-clear">Contact Us <i class="fa fa-envelope"></i></a>
+            data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"><a href="#" class="btn radius-50 btn-dark btn-animated">Read More <i class="fa fa-arrow-right"></i></a>
           </div>
 
           </li>
